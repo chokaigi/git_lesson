@@ -15,3 +15,6 @@
 
 #### 勉強会第2回目アンケート
 [勉強会第2回目アンケート](https://docs.google.com/forms/d/1ej53YqKoPjNJgP8P8YhY4jlJMsWgOj54YjHDLRstWng/viewform)
+
+### Git勉強会QA
+[Git勉強会QA](https://github.com/chokaigi/git_lesson/blob/master/lesson/QA.md)
