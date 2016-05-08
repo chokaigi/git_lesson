@@ -7,7 +7,7 @@ MacBookAir:myapp tt$ git push origin master
 Counting objects: 3, done.
 ```
 
-### A.
+### A..git/objects/以下のファイルの更新された数かと思われます。詳しいアーキテクトは分かりませんが、ハッシュ化されたバイナリファイルのようです。
 
 ## 2）Q.mergeとcherry-pickの違いはなんですか？
 
