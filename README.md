@@ -11,7 +11,7 @@
 ### 第2回目
 
 * [第3章：Git基本コマンド](https://github.com/chokaigi/git_lesson/blob/master/lesson/03_%E5%9F%BA%E6%9C%AC%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89.md)
-* [第4章：こんなときどうする編](https://github.com/chokaigi/git_lesson/blob/master/lesson/04_%E3%81%93%E3%82%93%E3%81%AA%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%86%E3%81%99%E3%82%8B.md)
+* [第4章：こんなときどうする編](https://github.com/chokaigi/git_lesson/blob/master/lesson/04C_%E3%81%93%E3%82%93%E3%81%AA%E3%81%A8%E3%81%8D%E3%81%A9%E3%81%86%E3%81%99%E3%82%8B.md)
 
 #### 勉強会第2回目アンケート
 [勉強会第2回目アンケート](https://docs.google.com/forms/d/1ej53YqKoPjNJgP8P8YhY4jlJMsWgOj54YjHDLRstWng/viewform)
