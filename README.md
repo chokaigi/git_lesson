@@ -18,3 +18,9 @@
 
 ### Git勉強会QA
 [Git勉強会QA](https://github.com/chokaigi/git_lesson/blob/master/lesson/QA.md)
+
+### 資料
+
+[Vimの操作](https://github.com/chokaigi/git_lesson/blob/master/document/Vim%E3%81%AE%E6%93%8D%E4%BD%9C.md)
+
+[WindowsとMacのキーボードショートカット対応表](https://github.com/chokaigi/git_lesson/blob/master/document/Windows%E3%81%A8Mac%E3%81%AE%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88%E5%AF%BE%E5%BF%9C%E8%A1%A8.md)
