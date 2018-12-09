@@ -1,6 +1,6 @@
 # Git勉強会であった質問のQA
 
-## 1）Q.追加したファイルは１つでしたが、push時に表示される```Counting objects: 3, done.```の３というのは何の数ですか？
+## 1）Q.追加したファイルは１つでしたが、push時に表示される```Counting objects: 3, done.```の3というのは何の数ですか？
 
 ```
 MacBookAir:myapp tt$ git push origin master
